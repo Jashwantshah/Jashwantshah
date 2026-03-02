@@ -37,8 +37,8 @@
   <a href="#" target="_blank" rel="noreferrer"> 
   <img src="https://simpleicons.org/icons/github.svg" alt="Github" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashwantshah&show_icons=true&locale=en&layout=compact" alt="jashwantshah" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashwantshah&show_icons=true&locale=en&layout=compact" alt="jashwantshah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashwantshah&show_icons=true&locale=en" alt="jashwantshah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashwantshah&show_icons=true&locale=en" alt="jashwantshah" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashwantshah&" alt="jashwantshah" /></p>

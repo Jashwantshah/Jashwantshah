@@ -1,7 +1,7 @@
 <h3 align="center">A Data analytics from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashwantshah&label=Profile%20views&color=0e75b6&style=flat" alt="jashwantshah"> </p>
 
-- 🌱 I’m currently learning **frontend web development , c programing language**
+- 
 
 - 📫 How to reach me **shahjashwant9119@gmail.com**
 

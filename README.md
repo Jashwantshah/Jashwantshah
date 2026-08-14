@@ -1,7 +1,4 @@
 <h3 align="center">A Data analytics from India</h3>
-
-<img align="right" alt="coding" width="400" src="Coding Work From Home GIF by Domme Space [
-(https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjE3YTd5MWlteDQxaGViNHR5eTVtbXRnY3EwbjdodTEzcGh4eXpwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashwantshah&label=Profile%20views&color=0e75b6&style=flat" alt="jashwantshah"> </p>
 
 - 🌱 I’m currently learning **frontend web development , c programing language**

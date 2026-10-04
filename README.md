@@ -1,5 +1,5 @@
-<h3 align="center">from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jashwantshah&label=Profile%20views&color=0e75b6&style=flat" alt="jashwantshah"> </p>
+<h3 align="center">From India</h3>
+
 
 - 
 
@@ -24,7 +24,7 @@
   <img src="https://www.svgrepo.com/show/306593/powerbi.svg" alt="Power bi" width="40" height="40"/> </a> 
   
   <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://www.svgrepo.com/show/373938/numpy.svg" alt="numpy" width="40" height="40"/> </a> 
+  <!-- <img src="https://www.svgrepo.com/show/373938/numpy.svg" alt="numpy" width="40" height="40"/> </a>  -->
   
   <a href="" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/473742/pandas.svg" alt="pandasy" width="40" height="40"/> </a>
